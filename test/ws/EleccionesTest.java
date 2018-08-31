@@ -67,6 +67,7 @@ public class EleccionesTest {
         // TODO review the generated test code and remove the default call to fail.
         if(!result.equals(expResult)){
             fail("The test case is a prototype.");
+            
         }
     }
 
