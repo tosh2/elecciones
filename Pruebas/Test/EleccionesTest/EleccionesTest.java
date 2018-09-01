@@ -1,5 +1,5 @@
-package test.EleccionesTest;
-import test.calculo.Calculo;
+package Test.EleccionesTest;
+import Test.calculo.Calculo;
 import org.junit.*;
 
 public class EleccionesTest {
@@ -16,7 +16,7 @@ public class EleccionesTest {
 
  @Test
  public void testGetCandidato() {
-  Calculo calculo = new Calculo();
+  
 
   System.out.println("getCandidato");
         String nombre = "Jose";
