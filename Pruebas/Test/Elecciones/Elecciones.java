@@ -1,4 +1,4 @@
-package test.Elecciones;
+package Test.Elecciones;
 public class Elecciones {
 
     public Elecciones() {

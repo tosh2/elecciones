@@ -1,6 +1,9 @@
 package Test.EleccionesTest;
-import Test.calculo.Calculo;
+import Test.Elecciones.Elecciones;
 import org.junit.*;
+
+import static org.junit.jupiter.api.Assertions.assertEquals;
+import static org.junit.jupiter.api.Assertions.assertTrue;
 
 public class EleccionesTest {
 
