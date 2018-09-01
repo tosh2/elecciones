@@ -11,6 +11,12 @@ public class Elecciones {
         String response="{\"nombre\":\""+nombre+"\"}";
         return response;
     }
+
+    static public void main(String[] args){
+      Elecciones e=new Elecciones();
+      
+      System.out.println("Resultado: " + e.getCandidato("Jose") + "");
+   }
     
 
 }
